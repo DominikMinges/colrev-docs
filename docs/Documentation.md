@@ -1,3 +1,10 @@
+---
+layout: default
+title: Documentation
+nav_order: 3
+---
+# Documentation
+
 | Class                 | Functionality                                                             | Documentation                                                                               |
 |-----------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 | colrev.dataset        | which provides functionality for data/records.bib and the git repository. | https://colrev.readthedocs.io/en/latest/foundations/_autosummary/colrev.dataset.html        |
