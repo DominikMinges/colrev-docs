@@ -1,3 +1,9 @@
+--- 
+layout: default
+title: Goals
+nav_order: 1
+--- 
+
 # Goals
 ```mermaid
 flowchart TD
