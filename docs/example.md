@@ -1,9 +1,3 @@
----
-layout: default
-title: Example
-nav_order: 3
----
-
 # Example
 
 ## Initialization
